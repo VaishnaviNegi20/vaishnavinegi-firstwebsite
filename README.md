@@ -1,11 +1,10 @@
-#PORTFOLIO
+#firstwebsite
 
 Hey! I'm Vaishnavi.
 
-This is my personal portfolio in making.
-My portfolio gonna consists of different kind of CLI apps.
+This is the first website I ever made.
 
-for now, I know :
+for now, I familiar with :
 1. basic C
 1. basic MATLAB
 1. NodeJS
