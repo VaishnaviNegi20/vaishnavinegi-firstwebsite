@@ -1,13 +1,17 @@
-#firstwebsite
+Hey everyone! 
+I'm Vaishnavi Negi.
+This is the first website I made and hosted online.
 
-Hey! I'm Vaishnavi.
+For now, I familiar with :
 
-This is the first website I ever made.
-
-for now, I familiar with :
-1. basic C
-1. basic MATLAB
-1. NodeJS
+1. HTML
+1. CSS
 1. JavaScript
+1. node.JS
 1. Repl.it
 1. CHALK
+1. ReactJS
+1. Web Hosting
+1. Git
+1. C
+1. MATLAB
